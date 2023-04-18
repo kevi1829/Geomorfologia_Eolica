@@ -1,8 +1,7 @@
 # Geomorfologia_Eolica
-GF-0604 Procesamiento de datos geográficos-Tarea1
 ---
 
-# **Geomorfologia**
+# **Geomorfologia de La Tierra**
 ### **Geomorfologia Eolica**
 
 Los **procesos eólicos** dan pie a acontecer en regiones desérticas: desiertos cálidos y fríos, regiones semiáridas,  zonas litorales: en las costas, regiones periglaciares, zonas distales de abanicos aluviales; estas en su mayoría son regiones secas y presentan escasez de vegetación, lo cual provoca que el viento pueda levantar, transportar y depositar sedimentos.  Es por ello que el *objetivo* de este escrito es presentar a detalle los procesos eólicos que dan forma a modelados en el relieve tanto de tipo erosivo como sedimentario, en el cual se permite explicar la dinámica del viento como agente modelador. La **metodología** de trabajo fue realizar una revisión bibliográfica en internet, consultado libros y revistas. Lo que dio como resultado un artículo que identifica los diferentes procesos eólicos, así como sus formas resultantes (eólicas y acumulativas) y además, la identificación de las regiones que presentan las características adecuadas para que se produzcan tales *modelados eólicos*.
